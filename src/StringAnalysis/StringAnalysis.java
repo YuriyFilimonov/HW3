@@ -1,3 +1,5 @@
+package StringAnalysis;
+
 import java.util.*;
 
 public class StringAnalysis {
